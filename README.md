@@ -8,7 +8,7 @@ I'm a AI Solution Architect | SRE | DevOps Specialist passionate about building 
 - 🌍 Based in Toronto
 - 💼 Currently Heading SRE Team at Denvr Dataworks and Solution Architect at beCloudReady
 - 🌱 Learning Advanced LLM optimization, GPU orchestration
-- 📫 Reach me at: [x.com/_kchandan]
+- 📫 Reach me at: [X/Twitter_kchandan](x.com/_kchandan)
 
 ---
 
