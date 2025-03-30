@@ -59,36 +59,5 @@ I'm a [e.g., AI Infrastructure Engineer | SRE | DevOps Specialist] passionate ab
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
-
-## 🏆 Achievements & Badges
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-- [Add certifications or achievements, e.g., AWS Certified, Kubernetes Certified]
-
----
-
-## 🌟 Featured Projects
-- **[Project Name 1](https://github.com/your-username/project-repo)**  
-  [e.g., Built a RAG application for real-time LLM inferencing]  
-  *Tech Stack*: [e.g., Python, FastAPI, vLLM, Kubernetes]  
-  ![Stars](https://img.shields.io/github/stars/your-username/project-repo?style=social)
-
-- **[Project Name 2](https://github.com/your-username/project-repo)**  
-  [e.g., Automated GPU orchestration on Kubernetes with Terraform]  
-  *Tech Stack*: [e.g., Terraform, Kubernetes, NVIDIA GPU]  
-  ![Stars](https://img.shields.io/github/stars/your-username/project-repo?style=social)
-
----
-
-## 🤝 Let’s Connect!
-- [Twitter/X](https://twitter.com/your-handle)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Portfolio/Website](https://yourwebsite.com)
-
-Thanks for stopping by! Explore my repositories and reach out if you’d like to collaborate on AI, SRE, or DevOps projects!
