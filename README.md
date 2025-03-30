@@ -1,6 +1,6 @@
 
 
-I'm an AI Solution Architect | SRE | DevOps Specialist passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
+I'm an AI Solution Architect | Platform Engineering Specialist passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
 
 ---
 
