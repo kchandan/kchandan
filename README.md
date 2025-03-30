@@ -1,6 +1,6 @@
 
 
-I'm a AI Solution Architect | SRE | DevOps Specialist passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
+I'm an AI Solution Architect | SRE | DevOps Specialist passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
 
 ---
 
@@ -11,9 +11,6 @@ I'm a AI Solution Architect | SRE | DevOps Specialist passionate about building 
 - 📫 Reach me at: [X/Twitter @_kchandan](https://x.com/_kchandan)
 
 ---
-
-## 🛠️ Skills & Tools
-
 ### AI Infrastructure
 ![NVIDIA A100](https://img.shields.io/badge/NVIDIA%20A100-76B900?style=flat&logo=nvidia&logoColor=white)
 ![NVIDIA H100](https://img.shields.io/badge/NVIDIA%20H100-76B900?style=flat&logo=nvidia&logoColor=white)
