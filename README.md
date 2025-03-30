@@ -19,9 +19,7 @@ I'm a AI Solution Architect | SRE | DevOps Specialist passionate about building 
 ![NVIDIA H100](https://img.shields.io/badge/NVIDIA%20H100-76B900?style=flat&logo=nvidia&logoColor=white)
 ![AMD Mi300](https://img.shields.io/badge/AMD%20Mi300-ED1C24?style=flat&logo=amd&logoColor=white)
 ![Intel Gaudi2](https://img.shields.io/badge/Intel%20Gaudi2-0071C5?style=flat&logo=intel&logoColor=white)  
-![Weka](https://img.shields.io/badge/Weka-FF6600?style=flat)  
-![Qumulo](https://img.shields.io/badge/Qumulo-00AEEF?style=flat)  
-![Ceph](https://img.shields.io/badge/Ceph-FF4500?style=flat)
+![Weka](https://img.shields.io/badge/Weka-FF6600?style=flat)  ![Qumulo](https://img.shields.io/badge/Qumulo-00AEEF?style=flat)  ![Ceph](https://img.shields.io/badge/Ceph-FF4500?style=flat)
 
 ### LLM (Large Language Models)
 ![LLM Inferencing](https://img.shields.io/badge/LLM%20Inferencing-6A5ACD?style=flat) ![RAG](https://img.shields.io/badge/RAG%20Apps-4682B4?style=flat) ![vLLM](https://img.shields.io/badge/vLLM-FFD700?style=flat) ![TGI](https://img.shields.io/badge/TGI-20B2AA?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-32CD32?style=flat) ![AI Agents](https://img.shields.io/badge/AI%20Agent%20Dev-9932CC?style=flat)
