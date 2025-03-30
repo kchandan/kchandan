@@ -1,14 +1,13 @@
 
 
-I'm a [e.g., AI Infrastructure Engineer | SRE | DevOps Specialist] passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
+I'm a AI Solution Architect | SRE | DevOps Specialist passionate about building scalable AI systems, optimizing LLM inferencing, and automating infrastructure. 
 
 ---
 
 ## 🚀 About Me
-- 🌍 Based in [Toronto]
-- 💼 Currently Heading SRE Team at [Denvr Dataworks] and Solution Architect at [beCloudReady]
-- 🌱 Learning [Advanced LLM optimization, GPU orchestration]
-- 🎯 Goals for 2025: [e.g., Contribute to AI open-source, deploy a production RAG app]
+- 🌍 Based in Toronto
+- 💼 Currently Heading SRE Team at Denvr Dataworks and Solution Architect at beCloudReady
+- 🌱 Learning Advanced LLM optimization, GPU orchestration
 - 📫 Reach me at: [x.com/_kchandan]
 
 ---
