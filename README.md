@@ -6,7 +6,7 @@ I'm an AI Solution Architect | Platform Engineering Specialist passionate about 
 
 ## 🚀 About Me
 - 🌍 Based in Toronto
-- 💼 Currently Heading Platform Engineering Team at Denvr Dataworks and AI Solution Architect at beCloudReady
+- 💼 AI Solution Architect
 - 🌱 Learning Advanced LLM optimization, GPU orchestration
 - 📫 Reach me at: [X/Twitter @_kchandan](https://x.com/_kchandan)
 
