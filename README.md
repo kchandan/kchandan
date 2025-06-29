@@ -35,9 +35,13 @@ I'm an AI Solution Architect | Platform Engineering Specialist passionate about 
 ### 🗄️ Databases
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat)
 ![SnowSQL](https://img.shields.io/badge/SnowSQL-1C8CCD?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
 ![CRUD](https://img.shields.io/badge/CRUD%20Ops-6A5ACD?style=flat)
 ![DDL DML](https://img.shields.io/badge/DDL%2FDML-483D8B?style=flat)
+
 
 ---
 
