@@ -7,6 +7,7 @@ I'm an AI Solution Architect | Platform Engineering Specialist passionate about 
 - 💼 AI Solution Architect  
 - 🌱 Learning Advanced LLM optimization, GPU orchestration  
 - 📫 Reach me at: [X/Twitter @_kchandan](https://x.com/_kchandan)
+- Community Builder at [TorontoAI](eetup.com/torontoai/)
 
 ---
 
