@@ -3,10 +3,11 @@
 🚀 **AI Solution Architect | Data Platform Consultant | DevOps for AI/LLM Workloads**  
 Founder of [BeCloudReady](https://becloudready.com) • Organizer of [TorontoAI](https://meetup.com/torontoai)
 
-I help SMBs build **scalable, cost-efficient data platforms** using:
-- ⚙️ **Snowflake** & **Databricks**
-- 🧱 **CI/CD for data pipelines** (dbt, Airflow, Terraform)
-- 🧠 **LLM + AI infra orchestration** on GPU-enabled Kubernetes
+- **DevOps** Talent development and Recruitment 
+- **Azure Databricks** Platform Architect and Migration
+- **Cloud Migration** (AWS, Azure, Terraform)
+- **LLM + AI infra orchestration** on GPU-enabled Kubernetes
+
 
 ---
 
