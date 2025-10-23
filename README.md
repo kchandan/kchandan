@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chandan
 
-🚀 **AI Solution Architect | Data Platform Consultant | DevOps for AI/LLM Workloads**  
-Founder of [BeCloudReady](https://becloudready.com) • Organizer of [TorontoAI](https://meetup.com/torontoai)
+🚀 **AI Solution Architect help startups with DevRel and DevOps**  
+Founder of [BeCloudReady](https://becloudready.com) • Organizer of [TorontoAI](https://www.torontoai.io/)
 
 - **DevOps** Talent development and Recruitment 
 - **DevRel** Developer Advocate for Startups
