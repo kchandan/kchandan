@@ -5,7 +5,7 @@ Founder of [BeCloudReady](https://becloudready.com) • Organizer of [TorontoAI]
 
 - **DevOps** Talent development and Recruitment 
 - **DevRel** Developer Advocate for Startups
-- **LLM + AI ** Utility Application 
+- **LLM** Utility Application 
 
 
 ---
