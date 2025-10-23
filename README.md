@@ -4,9 +4,8 @@
 Founder of [BeCloudReady](https://becloudready.com) • Organizer of [TorontoAI](https://meetup.com/torontoai)
 
 - **DevOps** Talent development and Recruitment 
-- **Azure Databricks** Platform Architect and Migration
-- **Cloud Migration** (AWS, Azure, Terraform)
-- **LLM + AI infra orchestration** on GPU-enabled Kubernetes
+- **DevRel** Developer Advocate for Startups
+- **LLM + AI ** Utility Application 
 
 
 ---
